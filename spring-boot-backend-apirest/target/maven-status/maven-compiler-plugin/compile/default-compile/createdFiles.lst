@@ -1,0 +1,7 @@
+org\curso\aguzman\springangular\apirest\tricks\Tricks.class
+org\curso\aguzman\springangular\apirest\controllers\BasicTestController.class
+org\curso\aguzman\springangular\apirest\controllers\BasicTestController$HomeController.class
+org\curso\aguzman\springangular\apirest\models\entity\Cliente2.class
+org\curso\aguzman\springangular\apirest\controllers\ClienteRestController.class
+org\curso\aguzman\springangular\apirest\MainProjectApirest.class
+org\curso\aguzman\springangular\apirest\models\entity\Cliente.class
